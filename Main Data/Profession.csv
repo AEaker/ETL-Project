@@ -1,0 +1,13 @@
+Profession,Profession_id
+actress,P001
+actor,P002
+director,P003
+producer,P004
+composer,P005
+cinematographer,P006
+writer,P007
+production_designer,P008
+editor,P009
+self,P010
+archive_footage,P011
+archive_sound,P012
